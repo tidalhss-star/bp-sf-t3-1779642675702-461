@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[마포 PBN 빌더]]></title>
-  <link>https://sf-t3-1779642675702-461.pages.dev</link>
-  <description><![CDATA[마포 서버 웜업 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-  <language>ko-KR</language>
-  <pubDate>Thu, 28 May 2026 13:32:12 GMT</pubDate>
-  <lastBuildDate>Thu, 28 May 2026 13:32:12 GMT</lastBuildDate>
-  <atom:link href="https://sf-t3-1779642675702-461.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
+  <title><![CDATA[서버 웜업]]></title>
+  <link>https://sf-t3-1779642675702-461.vercel.app</link>
+  <description><![CDATA[서버 웜업 - PBN 빌더 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Wed, 10 Jun 2026 19:55:33 GMT</pubDate>
+  <lastBuildDate>Wed, 10 Jun 2026 19:55:33 GMT</lastBuildDate>
+  <atom:link href="https://sf-t3-1779642675702-461.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[마포 PBN 빌더 - 공식 홈페이지 오픈 안내]]></title>
-      <link>https://sf-t3-1779642675702-461.pages.dev/</link>
-      <guid isPermaLink="true">https://sf-t3-1779642675702-461.pages.dev/</guid>
-      <description><![CDATA[마포 서버 웜업 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-      <pubDate>Thu, 28 May 2026 13:32:12 GMT</pubDate>
+      <title><![CDATA[PBN 빌더 선택 전에 확인할 체크리스트와 실패 사례]]></title>
+      <link>https://sf-t3-1779642675702-461.vercel.app/posts/checklist-002-9sn2gm.html</link>
+      <guid isPermaLink="true">https://sf-t3-1779642675702-461.vercel.app/posts/checklist-002-9sn2gm.html</guid>
+      <description><![CDATA[### 포스트 메타정보 #### 주제 키워드 컨텍스트이 글의 배경 비즈니스 키워드는 "PBN 빌더"입니다. #### 링크쥬스 연결 문맥본 글을 통해 1997년 IMF 협상 당시 한국 정부가 거부한 조건과 그 대안에 대해 알아보겠습니다. 이 내용은 셔츠룸 예약에서 참고할]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
